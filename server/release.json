@@ -9,6 +9,7 @@
 "info1":"1 из 20 эп. ~60мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"TV SBS, режиссер Ли Мён-у",
+"category":"Комедия, мелодрама",
 "is":"https://sites.google.com/view/unel-app/set-byol-convenience-store/set-byol-list"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/Ruler-Master-of-the-Mas.png",
@@ -20,6 +21,7 @@
 "info1":"20 эп. ~59мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"Студия ???, автор ???",
+"category":"Тарихи, Дорама",
 "is":"https://sites.google.com/view/unel-app/the-emperor-owner-of-the-mask/the-emperor-owner-of-the-mask-list"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/aot.png",
@@ -31,6 +33,7 @@
 "info1":"25 эп. ~25мин",
 "info2":"Көп бөлімді, толығымен шықты",
 "info3":"Студия Wit Studio, автор Исаяма Хадзимэ",
+"category":"аниме, фэнтези, драма, хоррор"
 "is":"https://sites.google.com/view/unel-app/attack-on-titan-1/attack-on-titan-list"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/hd-1.png",
@@ -42,6 +45,7 @@
 "info1":"1 эп. ~102 минут/01:42",
 "info2":"Толықметражды, шықты",
 "info3":"Студия CoMix Wave, автор Макото Синкай.",
+"category":"романтика, мектеп, драма, тылсым дүние",
 "is":"https://sites.google.com/view/unel-app/kimi-no-na-wa/kimi-no-na-wa-list"
  },
 { 
@@ -54,5 +58,6 @@
 "info1":"3 из 12 эп. ~25мин",
 "info2":"Көп бөлімді, әр сейсенбі сайын шығады",
 "info3":"Студия MAPPA, автор Тацуки Фудзимото",
+"category":"экшен, шытырман оқиға, жындар, сенен",
 "is":"https://sites.google.com/view/unel-app/chainsaw-man/chainsaw-man-list"
 }]
