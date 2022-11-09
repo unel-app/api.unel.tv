@@ -1,6 +1,13 @@
 [ {
 "ava":"https://unel-app.github.io/api.unel.tv/server/profile/verified/profile_seele.png",
 "moderator":"Seele",
+"title":"Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+"info":"17 желтоқсаннан бастап Жапония кинотеатрларында премьерасы.< br>бұл жолы фильмді желіде жақсы сапада күтудің қажеті жоқ, олар оны сәл кейінірек Жапон теледидарында көрсетуге уәде береді. Демек, классика бойынша бұл күні фильм желі арқылы жақсы сапада қол жетімді болады.<br>теледидардың нақты шығу күні кейінірек хабарланады.<br> < br>Фильм 3 маусымнан кейін тікелей канондық жалғасы болады.",
+"poster":"https://static.anixart.tv/posters/BUaSdjGpPDO6zyS4EOV41IgQfRZo8A.jpg",
+"data:"9 қараша 2022ж / 12:21"
+},
+{"ava":"https://unel-app.github.io/api.unel.tv/server/profile/verified/profile_seele.png",
+"moderator":"Seele",
 "title":"Мастера Меча Онлайн. Фильм",
 "info":"Новый фильм будет с оригинальным сюжетом, а не экранизацией арки \"Прогрессив\" как прошлые 2 фильма. Дата выхода пока неизвестна, подробности в целом сообщат позже, на данный момент просто анонсирован новый оригинальный фильм.",
 "poster":"https://static.anixart.tv/posters/iy4hEl21LU147nGiyTLfBcSzcUtf4h.jpg",
@@ -10,6 +17,6 @@
 "moderator":"LisaDev",
 "title":"Это тестовый публикация!",
 "info":"test, тест.",
-"poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcitoPtIn2mqI0posFGtuWlDa2SXB1lxNEw&usqp=CAU",
+"poster":"false",
 "data":"7 қараша 2022ж / 15:47"
 } ]
