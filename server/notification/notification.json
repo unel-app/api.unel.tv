@@ -1,5 +1,11 @@
 [ {
-"ava":"https://unel-app.github.io/api.unel.tv/server/profile/verified/profile_seele.png",
+"ava":"https://unel-app.github.io/api.unel.tv/server/profile/verified/system.png",
+"moderator":"Система",
+"title":"New section",
+"message":"Шынжырлы Ара Адам\n5 бөлім шықты",
+"data":"17 ноябрь 2022ж / 7:20"
+},
+{"ava":"https://unel-app.github.io/api.unel.tv/server/profile/verified/profile_seele.png",
 "moderator":"Seele",
 "title":"Тестовый уведомление",
 "message":"тест, тест\nТест Тест\nТЕСТ ТЕСТ.",
