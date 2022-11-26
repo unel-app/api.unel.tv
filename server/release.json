@@ -73,9 +73,9 @@
 "info1":"20 эп. ~59мин",
 "info2":"Көп бөлімді, шықты",
 "info3":"Студия JTBC",
-"is":"https://sites.google.com/view/unel-app/cruel-city",
 "description":"Драма, боевики, криминал, романтика",
-"note":"Ескертулер жоқ!😊"
+"note":"Ескертулер жоқ!😊",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/heartless-city.json"
 },
 {"url":"https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg",
 "title":"Пусанға баратын пойыз",
