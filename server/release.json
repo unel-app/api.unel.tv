@@ -178,9 +178,9 @@
 "info1":"1 из 20 эп. ~60мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"TV SBS, режиссер Ли Мён-у",
-"is":"https://sites.google.com/view/unel-app/set-byol-list",
 "description":"Комедия, Мелодрама",
-"note":"Біздің источникте қазақша субтитрмен тек 1 бөлім ғана қол жетімді, егерде дорама біздің қосымшада танымалдық жинаса қалған 15 бөлім де қосуға уәде береміз!"
+"note":"Біздің источникте қазақша субтитрмен тек 1 бөлім ғана қол жетімді, егерде дорама біздің қосымшада танымалдық жинаса қалған 15 бөлім де қосуға уәде береміз!",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/set-byol.json"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/Ruler-Master-of-the-Mas.png",
 "title":"Бетберденің иесі",
