@@ -86,9 +86,9 @@
 "info1":"1 эп. ~1 сағат 58мин",
 "info2":"Толықметражды, шықты",
 "info3":"Режиссер Ён Сан Хо",
-"is":"https://sites.google.com/view/unel-app/train-to-buson",
 "description":"Ужасы, боевик",
-"note":"Ескертулер жоқ!😊"
+"note":"Ескертулер жоқ!😊",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/train-to-buson.json"
 },
 {"url":"https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so",
 "title":"Титаник",
