@@ -125,9 +125,9 @@
 "info1":"1 эп. ~2 сағат 11мин",
 "info2":"Толықметражды, шықты",
 "info3":"Студия ?? автор ??",
-"is":"https://sites.google.com/view/unel-app/parasite",
 "description":"Комедия, драма, триллер",
-"note":"Ескертулер жоқ😊"
+"note":"Ескертулер жоқ😊",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/parasite.json"
 },
 {"url":"https://static.kinoafisha.info/k/movie_posters/canvas/800x1200/upload/movie_posters/5/9/1/8366195/b141ce6d1d2ae38715e49777bd8f117d.jpg.webp",
 "title":"Қазақша бизнес түркияда",
