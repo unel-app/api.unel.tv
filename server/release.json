@@ -204,9 +204,9 @@
 "info1":"10 из 25 эп. ~25мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"Студия Wit Studio, автор Исаяма Хадзимэ",
-"is":"https://sites.google.com/view/unel-app/attack-on-titan-list",
 "description":"экшен, фэнтези, драма, хоррор",
-"note":"Студия қазақша дубляжда шығаруды уақытша тоқтатты!"
+"note":"Студия қазақша дубляжда шығаруды уақытша тоқтатты!",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/attack-on-titan.json"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/hd-1.png",
 "title":"Сенің есімің",
