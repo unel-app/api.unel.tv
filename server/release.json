@@ -99,9 +99,9 @@
 "info1":"1 эп. ~3 сағат 14мин",
 "info2":"Толықметражды, шықты",
 "info3":"Студия Titanic Studio",
-"is":"https://sites.google.com/view/unel-app/titanic",
 "description":"Романтика, драма",
-"note":"Ескертулер жоқ!😊"
+"note":"Ескертулер жоқ!😊",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/titanic.json"
 },
 {"url":"https://dorama.land/uploads/generated/serials/0/v2/brodyaga.jpg?v=1%202x",
 "title":"Қаңғыбас",
