@@ -10,7 +10,6 @@
 "info3":"Студия A-1-Pictures, автор Самбэ Кэй",
 "description":"Драма, мистика",
 "note":"Ескертулер жоқ!😊",
-"is":"https://sites.google.com/view/unel-app/boku-dake-ga-inai-machi",
 "id":"https://unel-app.github.io/api.unel.tv/server/episode/boku-dake-ga-Inai-machi.json"
 },
 {"url":"https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
@@ -24,7 +23,6 @@
 "info3":"Автор Синкай Макото",
 "description":"Романтика, драма",
 "note":"Ескертулер жоқ!😊",
-"is":"https://sites.google.com/view/unel-app/koto-no-ha-no-niwa",
 "id":"https://unel-app.github.io/api.unel.tv/server/episode/koto-no-ha-no-niwa.json"
 },
 {"url":"https://sun9-81.userapi.com/impf/c855328/v855328851/12bab2/z8nX2_fAR8s.jpg?size=510x767&quality=96&sign=79390f5103fe3929924cf4b11366679d&type=album",
@@ -36,7 +34,6 @@
 "info1":"1 эп. ~1 сағат 37мин",
 "info2":"Толықметражды, шықты",
 "info3":"Толық ақпарат берілген жоқ",
-"is":"https://sites.google.com/view/unel-app/%D2%9B%D2%B1%D0%B4%D1%8B%D1%80%D0%B5%D1%82%D1%82%D1%96-%D0%B1%D1%80%D1%8E%D1%81",
 "description":"Фэнтези, комедия, драма",
 "note":"Ескертулер жоқ!😊",
 "id":"https://unel-app.github.io/api.unel.tv/server/episode/bruce-almighty.json"
@@ -50,7 +47,6 @@
 "info1":"6 из 12 эп. ~25мин",
 "info2":"Көп бөлімді, әр сейсенбі сайын шығады",
 "info3":"Студия MAPPA, автор Тацуки Фудзимото",
-"is":"https://sites.google.com/view/unel-app/chainsaw-man-list",
 "description":"Экшен, демоны, хоррор, сёнен",
 "note":"Ескертулер жоқ!😊",
 "id":"https://unel-app.github.io/api.unel.tv/server/episode/chainsaw-man.json"
@@ -65,8 +61,8 @@
 "info2":"Толықметражды, шықты",
 "info3":"Студия Studio Ghibli, автор Диана Уинн Джонс",
 "description":"аниме, фантастика, ертегі",
-"is":"https://sites.google.com/view/unel-app/hauru-no-ugoku-shiro",
-"note":"Ескертулер жоқ!😊"
+"note":"Ескертулер жоқ!😊",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/hauru-no-ugoku-shiro.json"
 },
 {"url":"https://sun9-78.userapi.com/impg/EUXetDPGu3sJ_rDbo08iuABmkSa1F-VDqZkUVA/vpw_ZW1lZYs.jpg?size=510x729&quality=96&sign=1d27afcfb2348e891c79aa3221402cec&type=album",
 "title":"Қатыгез қала",
