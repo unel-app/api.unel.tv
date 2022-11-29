@@ -8,7 +8,7 @@
 "info1":"20 эп. ~59мин",
 "info2":"Көп бөлімді, шықты",
 "info3":"Студия JTBC",
-"is":"https://sites.google.com/view/unel-app/cruel-city",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/heartless-city.json",
 "description":"Драма, боевики, криминал, романтика",
 "note":"Ескертулер жоқ!😊"
 },
@@ -21,7 +21,7 @@
 "info1":"1 эп. ~1 сағат 58мин",
 "info2":"Толықметражды, шықты",
 "info3":"Режиссер Ён Сан Хо",
-"is":"https://sites.google.com/view/unel-app/train-to-buson",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/train-to-buson.json",
 "description":"Ужасы, боевик",
 "note":"Ескертулер жоқ!😊"
 },
@@ -34,7 +34,7 @@
 "info1":"16 эп. ~60мин",
 "info2":"Көп бөлімді, шықты",
 "info3":"Студия NETFLIX",
-"is":"https://sites.google.com/view/unel-app/vagabond",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/vagabond.json",
 "description":"Боевики, детективы, криминал",
 "note":"Ескертулер жоқ😊"
 },
@@ -47,7 +47,7 @@
 "info1":"1 эп. ~2 сағат 11мин",
 "info2":"Толықметражды, шықты",
 "info3":"Студия ?? автор ??",
-"is":"https://sites.google.com/view/unel-app/parasite",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/parasite.json",
 "description":"Комедия, драма, триллер",
 "note":"Ескертулер жоқ😊"
 },
@@ -60,7 +60,7 @@
 "info1":"16 эп. ~59мин",
 "info2":"Сериал, толығымен шықты!",
 "info3":"Студия  ???, автор ???",
-"is":"https://sites.google.com/view/unel-app/ssauja-gwisina",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/lets-fight-ghost.json",
 "description":"Комедия, Мелодрама, Мистика",
 "note":"Ескертулер жоқ!😊"
 },
@@ -74,7 +74,7 @@
 "info1":"1 из 20 эп. ~60мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"TV SBS, режиссер Ли Мён-у",
-"is":"https://sites.google.com/view/unel-app/set-byol-list",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/set-byol.json",
 "description":"Комедия, Мелодрама",
 "note":"Біздің источникте қазақша субтитрмен тек 1 бөлім ғана қол жетімді, егерде дорама біздің қосымшада танымалдық жинаса қалған 15 бөлім де қосуға уәде береміз!"
 },
@@ -87,7 +87,7 @@
 "info1":"20 эп. ~59мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"Студия ???, автор ???",
-"is":"https://sites.google.com/view/unel-app/the-emperor-owner-of-the-mask-list",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/the-emperor-owner-of-the-mask.json",
 "description":"Тарихи, Дорама",
 "note":"Ескертулер жоқ!😊"
 } ]
