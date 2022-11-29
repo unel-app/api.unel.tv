@@ -10,7 +10,7 @@
 "info3":"Студия A-1-Pictures, автор Самбэ Кэй",
 "description":"Драма, мистика",
 "note":"Аниме источник-те әзірше қол жетімсіз!",
-"is":"https://sites.google.com/view/unel-app/boku-dake-ga-inai-machi"
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/boku-dake-ga-Inai-machi.json"
 },
 {"url":"https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
 "title":"Сырлы сөдер саябағы",
@@ -23,7 +23,7 @@
 "info3":"Автор Синкай Макото",
 "description":"Романтика, драма",
 "note":"Ескертулер жоқ!😊",
-"is":"https://sites.google.com/view/unel-app/koto-no-ha-no-niwa"
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/koto-no-ha-no-niwa.json"
 },
 {"url":"https://i.pinimg.com/originals/e8/59/f4/e859f43c30a207270f5539014358f5cb.jpg",
 "title":"Хаулдың Жаяу Қамалы",
@@ -35,8 +35,8 @@
 "info2":"Толықметражды, шықты",
 "info3":"Студия Studio Ghibli, автор Диана Уинн Джонс",
 "description":"аниме, фантастика, ертегі",
-"is":"https://sites.google.com/view/unel-app/hauru-no-ugoku-shiro",
-"note":"Аниме қазіргі таңда біздің источник-те қол жетімсіз!\nБірақта осы 1 апта ішінде источник-те пайда болуына уәде береміз"
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/hauru-no-ugoku-shiro.json",
+"note":"Ескертулер жоқ!😊"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/Chainsaw-Man.png",
 "title":"Шынжырлы Ара Адам",
@@ -47,7 +47,7 @@
 "info1":"6 из 12 эп. ~25мин",
 "info2":"Көп бөлімді, әр сейсенбі сайын шығады",
 "info3":"Студия MAPPA, автор Тацуки Фудзимото",
-"is":"https://sites.google.com/view/unel-app/chainsaw-man-list",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/chainsaw-man.json",
 "description":"Экшен, демоны, хоррор, сёнен",
 "note":"Ескертулер жоқ!😊"
 },
@@ -60,7 +60,7 @@
 "info1":"10 из 25 эп. ~25мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"Студия Wit Studio, автор Исаяма Хадзимэ",
-"is":"https://sites.google.com/view/unel-app/attack-on-titan-list",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/attack-on-titan.json",
 "description":"экшен, фэнтези, драма, хоррор",
 "note":"Студия қазақша дубляжда шығаруды уақытша тоқтатты!"
 },
@@ -73,7 +73,7 @@
 "info1":"1 эп. ~102 минут/01:42",
 "info2":"Толықметражды, шықты",
 "info3":"Студия CoMix Wave, автор Макото Синкай.",
-"is":"https://sites.google.com/view/unel-app/kimi-no-na-wa-list",
+"id":"https://unel-app.github.io/api.unel.tv/server/episode/kimi-no-na-wa.json",
 "description":"Романтика, мектеп, тылсым дүние",
 "note":"Ескертулер жоқ!😊"
 }]
