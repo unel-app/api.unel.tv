@@ -8,8 +8,9 @@
 "info1":"7 из 12 эп. ~25мин",
 "info2":"Көп бөлімді, әр сейсенбі сайын шығады",
 "info3":"Студия MAPPA, автор Тацуки Фудзимото",
-"id":"https://unel-app.github.io/api.unel.tv/server/episode/chainsaw-man.json",
+"id":"chainsaw-man",
 "description":"Экшен, демоны, хоррор, сёнен",
+"age":"18+",
 "note":"Ескертулер жоқ!😊"
 },
 {"url":"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/7bd73d08-43a3-4aff-88d0-b9cc983e3d3b/600x900",
@@ -23,7 +24,8 @@
 "info3":"Студия A-1-Pictures, автор Самбэ Кэй",
 "description":"Драма, мистика",
 "note":"Аниме источник-те әзірше қол жетімсіз!",
-"id":"https://unel-app.github.io/api.unel.tv/server/episode/boku-dake-ga-Inai-machi.json"
+"age":"18+",
+"id":"boku-dake-ga-Inai-machi"
 },
 {"url":"https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
 "title":"Сырлы сөдер саябағы",
@@ -36,7 +38,8 @@
 "info3":"Автор Синкай Макото",
 "description":"Романтика, драма",
 "note":"Ескертулер жоқ!😊",
-"id":"https://unel-app.github.io/api.unel.tv/server/episode/koto-no-ha-no-niwa.json"
+"age":"16+",
+"id":"koto-no-ha-no-niwa"
 },
 {"url":"https://i.pinimg.com/originals/e8/59/f4/e859f43c30a207270f5539014358f5cb.jpg",
 "title":"Хаулдың Жаяу Қамалы",
@@ -48,7 +51,8 @@
 "info2":"Толықметражды, шықты",
 "info3":"Студия Studio Ghibli, автор Диана Уинн Джонс",
 "description":"аниме, фантастика, ертегі",
-"id":"https://unel-app.github.io/api.unel.tv/server/episode/hauru-no-ugoku-shiro.json",
+"id":"hauru-no-ugoku-shiro",
+"age":"0+",
 "note":"Ескертулер жоқ!😊"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/aot.png",
@@ -60,8 +64,9 @@
 "info1":"10 из 25 эп. ~25мин",
 "info2":"Сериал, толығымен шықты",
 "info3":"Студия Wit Studio, автор Исаяма Хадзимэ",
-"id":"https://unel-app.github.io/api.unel.tv/server/episode/attack-on-titan.json",
+"id":"attack-on-titan",
 "description":"экшен, фэнтези, драма, хоррор",
+"age":"18+",
 "note":"Студия қазақша дубляжда шығаруды уақытша тоқтатты!"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/hd-1.png",
@@ -73,7 +78,8 @@
 "info1":"1 эп. ~102 минут/01:42",
 "info2":"Толықметражды, шықты",
 "info3":"Студия CoMix Wave, автор Макото Синкай.",
-"id":"https://unel-app.github.io/api.unel.tv/server/episode/kimi-no-na-wa.json",
+"id":"kimi-no-na-wa",
 "description":"Романтика, мектеп, тылсым дүние",
+"age":"16+",
 "note":"Ескертулер жоқ!😊"
 }]
