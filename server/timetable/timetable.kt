@@ -1,0 +1,3 @@
+[ {
+"timetable":"dd.mm.yyyy"
+} ]
