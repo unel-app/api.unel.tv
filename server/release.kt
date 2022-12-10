@@ -13,7 +13,7 @@
 "age":"18+",
 "language":"Орыс тілінде",
 "hd":"720p",
-"id":"code-geass-s1"
+"id_page":"code-geass-s1"
 },
 {"url":"https://asiapoisk.com/uploads/cache/products/1429780380_71NwyNqL_73a43c_f-450x900.jpg",
 "title":"Сен кімсің? Мектеп 2015",
@@ -29,7 +29,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"720p",
-"id":"huayu-hakgyo-2015"
+"id_page":"huayu-hakgyo-2015"
 },
 {"url":"https://anixstatic.com/posters/6pCWUtX8IRiDQbd1NHsKrBQW3P3BzN.jpg",
 "title":"Киберпанк: Бегущие по краю",
@@ -45,7 +45,7 @@
 "age":"18+",
 "language":"Орыс тілінде",
 "hd":"720p",
-"id":"cyberpunk-edgerunners"
+"id_page":"cyberpunk-edgerunners"
 },
 {"url":"https://anixstatic.com/posters/Cs0KXtcTHsjVnSx3F6AK6FzxANXM87.jpg",
 "title":"Ниндзялар уақыты",
@@ -61,7 +61,7 @@
 "age":"16+",
 "language":"Орыс тілінде",
 "hd":"720p",
-"id":"shinobi-no-Ittoki"
+"id_page":"shinobi-no-Ittoki"
 },
 {"url":"https://pbs.twimg.com/media/Ff43ozRXwAE_URH?format=jpg&name=medium",
 "title":"Лукизм",
@@ -77,7 +77,7 @@
 "age":"16+",
 "language":"Орыс тілінде",
 "hd":"720p",
-"id":"lookism"
+"id_page":"lookism"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/Chainsaw-Man.png",
 "title":"Шынжырлы Ара Адам",
@@ -93,7 +93,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
-"id":"chainsaw-man"
+"id_page":"chainsaw-man"
 },
 {"url":"https://m.media-amazon.com/images/M/MV5BMzU3OTI0MDA1Ml5BMl5BanBnXkFtZTYwNzA1NzU3._V1_.jpg",
 "title":"Жаңа полиция хикаясы",
@@ -109,7 +109,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"story_new_police"
+"id_page":"story_new_police"
 },
 {"url":"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/7bd73d08-43a3-4aff-88d0-b9cc983e3d3b/600x900",
 "title":"Мен жоқ қала",
@@ -125,7 +125,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"boku-dake-ga-Inai-machi"
+"id_page":"boku-dake-ga-Inai-machi"
 },
 {"url":"https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
 "title":"Сырлы сөдер саябағы",
@@ -141,7 +141,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"koto-no-ha-no-niwa"
+"id_page":"koto-no-ha-no-niwa"
 },
 {"url":"https://sun9-81.userapi.com/impf/c855328/v855328851/12bab2/z8nX2_fAR8s.jpg?size=510x767&quality=96&sign=79390f5103fe3929924cf4b11366679d&type=album",
 "title":"Құдыретті брюс",
@@ -157,7 +157,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"bruce-almighty"
+"id_page":"bruce-almighty"
 },
 {"url":"https://i.pinimg.com/originals/e8/59/f4/e859f43c30a207270f5539014358f5cb.jpg",
 "title":"Хаулдың Жаяу Қамалы",
