@@ -12,5 +12,6 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p",
+"block":"null",
 "id":"lets-fight-ghost"
 } ]
