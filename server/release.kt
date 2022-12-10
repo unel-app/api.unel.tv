@@ -11,6 +11,8 @@
 "description":"Приключения, меха, фантастика",
 "note":"Ескертулер жоқ!😊",
 "age":"18+",
+"language":"Орыс тілінде",
+"hd":"720p",
 "id":"code-geass-s1"
 },
 {"url":"https://asiapoisk.com/uploads/cache/products/1429780380_71NwyNqL_73a43c_f-450x900.jpg",
@@ -25,6 +27,8 @@
 "description":"Мелодрама, детектив, драма",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"720p",
 "id":"huayu-hakgyo-2015"
 },
 {"url":"https://anixstatic.com/posters/6pCWUtX8IRiDQbd1NHsKrBQW3P3BzN.jpg",
@@ -39,6 +43,8 @@
 "description":"киберпанк, фантастика, боевик",
 "note":"Ескертулер жоқ!😊",
 "age":"18+",
+"language":"Орыс тілінде",
+"hd":"720p",
 "id":"cyberpunk-edgerunners"
 },
 {"url":"https://anixstatic.com/posters/Cs0KXtcTHsjVnSx3F6AK6FzxANXM87.jpg",
@@ -53,6 +59,8 @@
 "description":"Экшен, сёнен",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Орыс тілінде",
+"hd":"720p",
 "id":"shinobi-no-Ittoki"
 },
 {"url":"https://pbs.twimg.com/media/Ff43ozRXwAE_URH?format=jpg&name=medium",
@@ -67,6 +75,8 @@
 "description":"Экшен, комедия, драма, тылсым күштер",
 "note":"P.S Аниме дыбыстамасы қазіргі таңда AniStar источник-гінен алынған және бұл тұрақсыз дыбыстама болып табылады, дыбыстама кодик рейтингі бойынша өзгеріп отырады.",
 "age":"16+",
+"language":"Орыс тілінде",
+"hd":"720p",
 "id":"lookism"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/Chainsaw-Man.png",
@@ -81,6 +91,8 @@
 "description":"Экшен, демоны, хоррор, сёнен",
 "note":"Ескертулер жоқ!😊",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 1080p",
 "id":"chainsaw-man"
 },
 {"url":"https://m.media-amazon.com/images/M/MV5BMzU3OTI0MDA1Ml5BMl5BanBnXkFtZTYwNzA1NzU3._V1_.jpg",
@@ -95,6 +107,8 @@
 "description":"Боевик, криминал",
 "note":"Фильм-ді қытай қазақтары дыбыстаған, дыбыс сапасына мән бермеңіздер.",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"story_new_police"
 },
 {"url":"https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/7bd73d08-43a3-4aff-88d0-b9cc983e3d3b/600x900",
@@ -109,6 +123,8 @@
 "description":"Драма, мистика",
 "note":"Ескертулер жоқ!😊",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"boku-dake-ga-Inai-machi"
 },
 {"url":"https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
@@ -123,6 +139,8 @@
 "description":"Романтика, драма",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"koto-no-ha-no-niwa"
 },
 {"url":"https://sun9-81.userapi.com/impf/c855328/v855328851/12bab2/z8nX2_fAR8s.jpg?size=510x767&quality=96&sign=79390f5103fe3929924cf4b11366679d&type=album",
@@ -137,6 +155,8 @@
 "description":"Фэнтези, комедия, драма",
 "note":"Ескертулер жоқ!😊",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"bruce-almighty"
 },
 {"url":"https://i.pinimg.com/originals/e8/59/f4/e859f43c30a207270f5539014358f5cb.jpg",
@@ -151,6 +171,8 @@
 "description":"аниме, фантастика, ертегі",
 "note":"Ескертулер жоқ!😊",
 "age":"0+",
+"language":"Қазақ тілінде",
+"hd":"380p, 1080p",
 "id":"hauru-no-ugoku-shiro"
 },
 {"url":"https://sun9-78.userapi.com/impg/EUXetDPGu3sJ_rDbo08iuABmkSa1F-VDqZkUVA/vpw_ZW1lZYs.jpg?size=510x729&quality=96&sign=1d27afcfb2348e891c79aa3221402cec&type=album",
@@ -165,6 +187,8 @@
 "description":"Драма, боевики, криминал, романтика",
 "note":"Ескертулер жоқ!😊",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"heartless-city"
 },
 {"url":"https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg",
@@ -179,6 +203,8 @@
 "description":"Ужасы, боевик",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"train-to-buson"
 },
 {"url":"https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so",
@@ -193,6 +219,8 @@
 "description":"Романтика, драма",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"titanic"
 },
 {"url":"https://dorama.land/uploads/generated/serials/0/v2/brodyaga.jpg?v=1%202x",
@@ -207,6 +235,8 @@
 "description":"Боевики, детективы, криминал",
 "note":"Ескертулер жоқ😊",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"vagabond"
 },
 {"url":"https://resizing.flixster.com/DgA7bEJqWSBJmHBhmIb375_VLxE=/206x305/v2/https://resizing.flixster.com/0nQ2niq2j-E4gdW_kB5H606atmc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlZWEwMmY4LTk1OWUtNGEyOS04ODRmLTA0OWRjMzhlYWZkNi53ZWJw",
@@ -221,6 +251,8 @@
 "description":"Комедия, драма, триллер",
 "note":"Ескертулер жоқ😊",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"parasite"
 },
 {"url":"https://static.kinoafisha.info/k/movie_posters/canvas/800x1200/upload/movie_posters/5/9/1/8366195/b141ce6d1d2ae38715e49777bd8f117d.jpg.webp",
@@ -235,6 +267,8 @@
 "description":"Комедия",
 "note":"Ескертулер жоқ😊",
 "age":"16+",
+"language":"Қазақша және орысша тілде",
+"hd":"380p, 720p",
 "id":"kazakh-business-in-turkey"
 },
 {"url":"https://upload.wikimedia.org/wikipedia/ru/9/92/Karate_Kid_2010.jpg",
@@ -249,6 +283,8 @@
 "description":"Драма, спорт",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"karate"
 },
 {"url":"https://doramy.club/wp-content/uploads/2017/06/davaj-srazhatsya-prizrak.jpg",
@@ -263,6 +299,8 @@
 "description":"Комедия, Мелодрама, Мистика",
 "note":"Дорама источник-те тек 144p ден 360p арасында ғана қолжетімді!\n⚠️Сапасы төмен болғанына біздің қатысымыз жоқ.",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p",
 "id":"lets-fight-ghost"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/setbyol.png",
@@ -278,6 +316,8 @@
 "description":"Комедия, Мелодрама",
 "note":"Біздің источникте қазақша субтитрмен тек 1 бөлім ғана қол жетімді, егерде дорама біздің қосымшада танымалдық жинаса қалған 15 бөлім де қосуға уәде береміз!",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p, 720p",
 "id":"set-byol"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/Ruler-Master-of-the-Mas.png",
@@ -292,6 +332,8 @@
 "description":"Тарихи, Дорама",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p, 480p",
 "id":"the-emperor-owner-of-the-mask"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/aot.png",
@@ -306,6 +348,8 @@
 "description":"экшен, фэнтези, драма, хоррор",
 "note":"Студия қазақша дубляжда шығаруды уақытша тоқтатты!",
 "age":"18+",
+"language":"Қазақ тілінде",
+"hd":"380p, 1080p",
 "id":"attack-on-titan"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/hd-1.png",
@@ -321,5 +365,7 @@
 "description":"Романтика, мектеп, тылсым дүние",
 "note":"Ескертулер жоқ!😊",
 "age":"16+",
+"language":"Қазақ тілінде",
+"hd":"380p, 1080p",
 "id":"kimi-no-na-wa"
 } ]
