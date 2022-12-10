@@ -1,7 +1,6 @@
 [ {
 "url":"https://unel-app.github.io/api.unel.tv/web-server/image/Ruler-Master-of-the-Mas.png",
 "title":"Бетберденің иесі",
-"grade":"20 эп • 8.9★",
 "info":"Белгісіз",
 "jp":"군주-가면의 주인",
 "country":"Оңтүстік Корея, 10 мамыр 2017ж",
