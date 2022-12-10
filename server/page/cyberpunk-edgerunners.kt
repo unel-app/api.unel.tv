@@ -12,5 +12,7 @@
 "age":"18+",
 "language":"Орыс тілінде",
 "hd":"720p",
+"block":"null",
+"note_li":"null",
 "id":"cyberpunk-edgerunners"
 } ]
