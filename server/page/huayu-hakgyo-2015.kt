@@ -12,5 +12,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"720p",
+"block":"null",
+"note_li":"null",
 "id":"huayu-hakgyo-2015"
 } ]
