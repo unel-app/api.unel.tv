@@ -12,5 +12,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
+"block":"null",
+"note_li":"null",
 "id":"kimi-no-na-wa"
 } ]
