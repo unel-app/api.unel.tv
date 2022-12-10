@@ -173,7 +173,7 @@
 "age":"0+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
-"id":"hauru-no-ugoku-shiro"
+"id_page":"hauru-no-ugoku-shiro"
 },
 {"url":"https://sun9-78.userapi.com/impg/EUXetDPGu3sJ_rDbo08iuABmkSa1F-VDqZkUVA/vpw_ZW1lZYs.jpg?size=510x729&quality=96&sign=1d27afcfb2348e891c79aa3221402cec&type=album",
 "title":"Қатыгез қала",
@@ -189,7 +189,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"heartless-city"
+"id_page":"heartless-city"
 },
 {"url":"https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg",
 "title":"Пусанға баратын пойыз",
@@ -205,7 +205,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"train-to-buson"
+"id_page":"train-to-buson"
 },
 {"url":"https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so",
 "title":"Титаник",
@@ -221,7 +221,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"titanic"
+"id_page":"titanic"
 },
 {"url":"https://dorama.land/uploads/generated/serials/0/v2/brodyaga.jpg?v=1%202x",
 "title":"Қаңғыбас",
@@ -237,7 +237,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"vagabond"
+"id_page":"vagabond"
 },
 {"url":"https://resizing.flixster.com/DgA7bEJqWSBJmHBhmIb375_VLxE=/206x305/v2/https://resizing.flixster.com/0nQ2niq2j-E4gdW_kB5H606atmc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlZWEwMmY4LTk1OWUtNGEyOS04ODRmLTA0OWRjMzhlYWZkNi53ZWJw",
 "title":"Арамтамақтар",
@@ -253,7 +253,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"parasite"
+"id_page":"parasite"
 },
 {"url":"https://static.kinoafisha.info/k/movie_posters/canvas/800x1200/upload/movie_posters/5/9/1/8366195/b141ce6d1d2ae38715e49777bd8f117d.jpg.webp",
 "title":"Қазақша бизнес түркияда",
@@ -269,7 +269,7 @@
 "age":"16+",
 "language":"Аралас тілде",
 "hd":"380p, 720p",
-"id":"kazakh-business-in-turkey"
+"id_page":"kazakh-business-in-turkey"
 },
 {"url":"https://upload.wikimedia.org/wikipedia/ru/9/92/Karate_Kid_2010.jpg",
 "title":"Каратэ Бала",
@@ -285,7 +285,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"karate"
+"id_page":"karate"
 },
 {"url":"https://doramy.club/wp-content/uploads/2017/06/davaj-srazhatsya-prizrak.jpg",
 "title":"Елеспен Шайқас",
@@ -301,7 +301,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p",
-"id":"lets-fight-ghost"
+"id_page":"lets-fight-ghost"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/setbyol.png",
 "title":"Сэт Бёль тәуліктік дүкені",
@@ -318,7 +318,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
-"id":"set-byol"
+"id_page":"set-byol"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/Ruler-Master-of-the-Mas.png",
 "title":"Бетберденің иесі",
@@ -334,7 +334,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 480p",
-"id":"the-emperor-owner-of-the-mask"
+"id_page":"the-emperor-owner-of-the-mask"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/aot.png",
 "title":"Титандар Шабуылы",
@@ -350,7 +350,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
-"id":"attack-on-titan"
+"id_page":"attack-on-titan"
 },
 {"url":"https://unel-app.github.io/api.unel.tv/web-server/image/hd-1.png",
 "title":"Сенің есімің",
@@ -367,5 +367,5 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
-"id":"kimi-no-na-wa"
+"id_page":"kimi-no-na-wa"
 } ]
