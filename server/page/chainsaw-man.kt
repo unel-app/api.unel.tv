@@ -12,5 +12,7 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
+"block":"null",
+"note_li":"null",
 "id":"chainsaw-man"
 } ]
