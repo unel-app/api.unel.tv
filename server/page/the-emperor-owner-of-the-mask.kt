@@ -12,5 +12,7 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 480p",
+"block":"null",
+"note_li":"null",
 "id":"the-emperor-owner-of-the-mask"
 } ]
