@@ -12,5 +12,7 @@
 "age":"16+",
 "language":"Аралас тілде",
 "hd":"380p, 720p",
+"block":"null",
+"note_li":"null",
 "id":"kazakh-business-in-turkey"
 } ]
