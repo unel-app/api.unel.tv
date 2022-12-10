@@ -13,6 +13,5 @@
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
 "block":"null",
-"player":"Қол жетімді плеер: Веб плеер",
 "id":"attack-on-titan"
 } ]
