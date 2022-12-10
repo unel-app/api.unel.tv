@@ -30,8 +30,4 @@
 {"episode":"8 бөлім",
 "is":"https://ok.ru/videoembed/4441444649673",
 "studio":"Dopamine Voice"
-},
-{"episode":"9 бөлім",
-"is":"http://anifon.tk:8072/ed4737567",
-"studio":"HIT TV channel"
 } ]
