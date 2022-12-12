@@ -13,6 +13,9 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
+"moderator":"null",
+"cause":"null",
+"data_delete":"null",
 "block":"null",
 "note_li":"null",
 "id":"parasite"
