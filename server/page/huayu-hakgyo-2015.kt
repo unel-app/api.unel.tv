@@ -15,5 +15,5 @@
 "moderator":"Seele",
 "cause":"Источник на серия заблокировано",
 "data_delete":"12 дек. 2022 г. - 15:42",
-"id":"huayu-hakgyo-2015"
+"id":"deleted"
 } ]
