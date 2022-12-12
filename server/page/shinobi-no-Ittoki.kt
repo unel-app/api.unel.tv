@@ -12,6 +12,9 @@
 "age":"16+",
 "language":"Орыс тілінде",
 "hd":"720p",
+"moderator":"null",
+"cause":"null",
+"data_delete":"null",
 "block":"null",
 "note_li":"null",
 "id":"shinobi-no-Ittoki"
