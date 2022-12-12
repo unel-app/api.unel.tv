@@ -1,4 +1,4 @@
 [ {"episode":"Deleted",
-"is":"https://i.gifer.com/I3uP.gif",
+"is":"",
 "studio":"UNEL TV"
 } ]
