@@ -12,6 +12,9 @@
 "age":"18+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
+"moderator":"null",
+"cause":"null",
+"data_delete":"null",
 "block":"null",
 "id":"attack-on-titan"
 } ]
