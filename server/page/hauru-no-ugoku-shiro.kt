@@ -12,6 +12,9 @@
 "age":"0+",
 "language":"Қазақ тілінде",
 "hd":"380p, 1080p",
+"moderator":"null",
+"cause":"null",
+"data_delete":"null",
 "block":"null",
 "note_li":"null",
 "id":"hauru-no-ugoku-shiro"
