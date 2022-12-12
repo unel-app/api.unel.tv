@@ -12,7 +12,9 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"720p",
-"block":"null",
+"moderator":"Seele",
+"cause":"Источник на серия заблокировано",
+"data_delete":"12 дек. 2022 г. - 15:42",
 "note_li":"null",
 "id":"huayu-hakgyo-2015"
 } ]
