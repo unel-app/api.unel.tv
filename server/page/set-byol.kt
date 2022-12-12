@@ -13,5 +13,9 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"380p, 720p",
+"note_li":"null",
+"moderator":"XTremove",
+"cause":"Удалено из-за нарушения авторских прав",
+"data_delete":"16 ноябрь. 2022 г. -14:46",
 "id":"set-byol"
 } ]
