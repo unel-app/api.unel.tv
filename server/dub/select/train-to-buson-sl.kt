@@ -1,5 +1,5 @@
 [ {
-"dub":"FreeDUB",
-"git"1 эп.",
+"dub":"Белгісіз",
+"git":"1 эп.",
 "id":"train-to-buson"
 } ]
