@@ -17,5 +17,5 @@
 "data_delete":"null",
 "block":"null",
 "note_li":"null",
-"id":"kazakh-business-in-turkey"
+"sl":"kazakh-business-in-turkey-sl"
 } ]
