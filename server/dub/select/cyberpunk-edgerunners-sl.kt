@@ -1,5 +1,5 @@
 [ {
-"dub":"AniStar",
-"git":"8 эп.",
+"dub":"AniLibria",
+"git":"10 эп.",
 "id":"cyberpunk-edgerunners"
 } ]
