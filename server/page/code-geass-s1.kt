@@ -17,6 +17,6 @@
 "data_delete":"null",
 "block":"null",
 "note_li":"null",
-"poster":"https://cf.shopee.ph/file/254e5da13ca39e2781e63a79d32a42a9",
+"poster":"https://cf.shopee.ph/file/254e5da13ca39e2781e63a79d32a42a9","https://cf.shopee.ph/file/254e5da13ca39e2781e63a79d32a42a9",
 "id":"code-geass-s1"
 } ]
