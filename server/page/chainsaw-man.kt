@@ -17,5 +17,5 @@
 "data_delete":"null",
 "block":"null",
 "note_li":"null",
-"sl":"dp-chainsaw-man-sl"
+"sl":"chainsaw-man-sl"
 } ]
