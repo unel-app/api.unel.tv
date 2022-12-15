@@ -1,5 +1,5 @@
 [ {
 "dub":"Dopamine Voice",
-"git":"8 эп.",
+"git":"9 эп.",
 "id":"chainsaw-man"
 } ]
