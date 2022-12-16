@@ -1,6 +1,6 @@
 [ {
 "episode":"1 бөлім",
-"is":"http://anifon.tk:8072/ed4737567",
+"is":"https://anifon-nurislam003.koyeb.app/AgADzA213",
 "studio":"HIT TV channel"
 },
 {"episode":"2 бөлім",
