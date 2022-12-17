@@ -25,7 +25,4 @@
 },
 {"episode":"9 бөлім",
 "is":"https://ok.ru/videoembed/4463186086601"
-},
-{"episode":"10",
-"is":"https://video.sibnet.ru/api/v/934e77f28be9c08ecab9800f7af238e3/4967699.mp4"
 } ]
