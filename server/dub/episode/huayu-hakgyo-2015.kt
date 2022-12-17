@@ -4,62 +4,62 @@
 "studio":"HIT TV channel"
 },
 {"episode":"2 бөлім",
-"is":"http://anifon.tk:8072/f4bd37568",
+"is":"https://anifon-nurislam003.koyeb.app/AgADzg215",
 "studio":"HIT TV channel"
 },
 {"episode":"3 бөлім",
-"is":"http://anifon.tk:8072/c4b228569",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD0A217",
 "studio":"HIT TV channel"
 },
 {"episode":"4 бөлім",
-"is":"http://anifon.tk:8072/e599be570",
+"is":"https://anifon-nurislam003.koyeb.app/AgADhQ219",
 "studio":"HIT TV channel"
 },
 {"episode":"5 бөлім",
-"is":"http://anifon.tk:8072/225443571",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD0Q224",
 "studio":"HIT TV channel"
 },
 {"episode":"6 бөлім",
-"is":"http://anifon.tk:8072/a877c1572",
+"is":"https://anifon-nurislam003.koyeb.app/AgADhg226",
 "studio":"HIT TV channel"
 },
 {"episode":"7 бөлім",
-"is":"http://anifon.tk:8072/86af1a573",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD0g228",
 "studio":"HIT TV channel"
 },
 {"episode":"8 бөлім",
-"is":"http://anifon.tk:8072/5122f0574",
+"is":"https://anifon-nurislam003.koyeb.app/AgADhw230",
 "studio":"HIT TV channel"
 },
 {"episode":"9 бөлім",
-"is":"http://anifon.tk:8072/bbd6ba575",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD0w232",
 "studio":"HIT TV channel"
 },
 {"episode":"10 бөлім",
-"is":"http://anifon.tk:8072/1bc6ad576",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD2Q234",
 "studio":"HIT TV channel"
 },
 {"episode":"11 бөлім",
-"is":"http://anifon.tk:8072/72d66f577",
+"is":"https://anifon-nurislam003.koyeb.app/AgADyg236",
 "studio":"HIT TV channel"
 },
 {"episode":"12 бөлім",
-"is":"http://anifon.tk:8072/e71db3578",
+"is":"https://anifon-nurislam003.koyeb.app/AgADiA238",
 "studio":"HIT TV channel"
 },
 {"episode":"13 бөлім",
-"is":"http://anifon.tk:8072/8fe976579",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD1A240",
 "studio":"HIT TV channel"
 },
 {"episode":"14 бөлім",
-"is":"http://anifon.tk:8072/d16d4e580",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD1Q242",
 "studio":"HIT TV channel"
 },
 {"episode":"15 бөлім",
-"is":"http://anifon.tk:8072/1b8b89581",
+"is":"https://anifon-nurislam003.koyeb.app/AgADiQ244",
 "studio":"HIT TV channel"
 },
 {"episode":"16 бөлім",
-"is":"http://anifon.tk:8072/b1c75f582",
+"is":"https://anifon-nurislam003.koyeb.app/AgAD2A246",
 "studio":"HIT TV channel"
 } ]
