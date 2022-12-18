@@ -12,7 +12,7 @@
 "is":"https://anifon-nurislam003.koyeb.app/AgADCB340"
 },
 {"episode":"5 бөлім",
-"is":"https://anifon-nurislam003.koyeb.app/AgADCR346""
+"is":"https://anifon-nurislam003.koyeb.app/AgADCR346"
 },
 {"episode":"6 бөлім",
 "is":"https://anifon-nurislam003.koyeb.app/AgADEB348"
