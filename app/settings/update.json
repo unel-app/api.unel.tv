@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "HERR",
-  "Description": "Тестовый сообщения",
-  "MainTextButton": "Update",
+  "Title": "Тест",
+  "Description": "Сынақ хабары",
+  "MainTextButton": "Жаңарту",
   "Cancelable": "true",
-  "CancelButtonText": "Cancel",
+  "CancelButtonText": "Кейінірек жаңарту",
   "DownloadLink": "www.example.com",
-  "Version": "1.1"
+  "Version": "1.7"
 }
