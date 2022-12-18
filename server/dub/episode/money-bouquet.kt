@@ -30,44 +30,44 @@
 "is":"https://anifon-nurislam003.koyeb.app/AgADcx356"
 },
 {"episode":"11 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgADZR358"
 },
 {"episode":"12 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgADbx360"
 },
 {"episode":"13 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD7h403"
 },
 {"episode":"14 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD7B364"
 },
 {"episode":"15 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD7R366"
 },
 {"episode":"16 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD6x368"
 },
 {"episode":"17 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD6B370"
 },
 {"episode":"18 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD4x372"
 },
 {"episode":"19 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD2B374"
 },
 {"episode":"20 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD1R376"
 },
 {"episode":"21 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD1x378"
 },
 {"episode":"22 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD0B380"
 },
 {"episode":"23 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD0x382"
 },
 {"episode":"24 бөлім",
-"is":""
+"is":"https://anifon-nurislam003.koyeb.app/AgAD0R384"
 } ]
