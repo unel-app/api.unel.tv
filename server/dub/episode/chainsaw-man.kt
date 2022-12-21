@@ -25,4 +25,7 @@
 },
 {"episode":"9 бөлім",
 "is":"https://ok.ru/videoembed/4463186086601"
+},
+{"episode":"10 бөлім",
+"is":"https://ok.ru/videoembed/4483693349577"
 } ]
