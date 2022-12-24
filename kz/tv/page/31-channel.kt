@@ -3,5 +3,7 @@
 "name":"31-ші арна",
 "country":"QAZAQSTAN",
 "language":"Қазақ және орыс тілінде",
-"status":"Тікелей эфирде"
+"status":"Тікелей эфирде",
+"episode":"31-ші арна",
+"is":"https://sc.id-tv.kz/31Kanal_34_35.m3u8"
 } ]
