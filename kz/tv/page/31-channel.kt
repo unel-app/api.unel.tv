@@ -3,6 +3,5 @@
 "tv_name":"31-ші арна",
 "online":"‡қарау‡",
 "note":"null",
-"note_li":"null",
-"online_li":"null"
+"note_li":"null"
 } ]
