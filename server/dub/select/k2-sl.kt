@@ -1,4 +1,5 @@
 [ {
 "dub":"HIT TV channel",
-"git":"k2"
+"git":"16 эп.",
+"id":"k2"
 } ]
