@@ -5,5 +5,5 @@
 },
 {"dub":"Sibnet / Anidybys",
 "git":"1 эп.",
-"id":"chainsaw-man-id2.kt"
+"id":"chainsaw-man-id2"
 } ]
