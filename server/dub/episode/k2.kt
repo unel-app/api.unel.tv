@@ -29,9 +29,6 @@
 {"episode":"10 бөлім",
 "is":"https://anifon-nurislam003.koyeb.app/AgADki795"
 },
-{"episode":"Қол жетімсіз / Недоступно",
-"is":"https://error404"
-},
 {"episode":"12 бөлім",
 "is":"https://anifon-nurislam003.koyeb.app/AgADii799"
 },
