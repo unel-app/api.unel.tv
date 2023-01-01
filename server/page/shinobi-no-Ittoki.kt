@@ -16,5 +16,6 @@
 "cause":"null",
 "data_delete":"null",
 "block":"null",
+"unavailable":"null",
 "sl":"shinobi-no-Ittoki-sl"
 } ]
