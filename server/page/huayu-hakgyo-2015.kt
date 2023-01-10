@@ -12,11 +12,10 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"720p",
-"block":"null",
-"moderator":"null",
-"cause":"null",
-"data_delete":"null",
+"moderator":"Seele",
+"cause":"Источник қолжетімсіз!",
+"data_delete":"10/01/2023 - 11:21",
 "note_li":"null",
-"unavailable":"null",
+"player":"null",
 "sl":"huayu-hakgyo-2015-sl"
 } ]
