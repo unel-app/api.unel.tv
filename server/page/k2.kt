@@ -12,10 +12,9 @@
 "age":"16+",
 "language":"Қазақ тілінде",
 "hd":"360p, 480p",
-"moderator":"null",
-"cause":"null",
-"data_delete":"null",
-"block":"null",
-"unavailable":"null",
+"moderator":"Seele",
+"cause":"Источник қолжетімсіз!",
+"data_delete":"10/01/2023 - 11:21",
+"player":"null",
 "sl":"k2-sl"
 } ]
