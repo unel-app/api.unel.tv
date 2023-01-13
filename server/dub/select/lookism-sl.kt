@@ -1,6 +1,6 @@
 [ {
 "dub":"AniLibria (720p)",
-"git":"5 эп.",
+"git":"8 эп.",
 "id":"lookism-id2"
 },
 {"dub":"AniStar",
