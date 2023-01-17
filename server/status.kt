@@ -2,7 +2,7 @@
 "ava":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUndSzxcF1UbSXX3bVILVaUbSIhoc_GEA8g&usqp=CAU",
 "user":"Tester",
 "title":"Test",
-"message":"Test\n https://t.me/seele_off",
+"message":"https://t.me/seele_off",
 "data":"17 қаңтар 2023ж - 20:55",
 "poster":"https://cs9.pikabu.ru/post_img/big/2017/02/25/1/148797977117513249.jpg"
 },
