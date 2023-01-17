@@ -1,5 +1,12 @@
 [ {
-"ava":"https://anixstatic.com/avatars/2c648016d7f40dd98f28cb3c4f333569e92bc2c1_EGZdOnoMGe.gif",
+"ava":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUndSzxcF1UbSXX3bVILVaUbSIhoc_GEA8g&usqp=CAU",
+"user":"Tester",
+"title":"Test",
+"message":"Test",
+"data":"17 қаңтар 2023ж - 20:55",
+"poster":"https://pin.it/36mRCKq"
+},
+{"ava":"https://anixstatic.com/avatars/2c648016d7f40dd98f28cb3c4f333569e92bc2c1_EGZdOnoMGe.gif",
 "user":"ITs-пользователь",
 "title":"New reputable",
 "message":"Working...",
