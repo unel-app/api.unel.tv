@@ -1,5 +1,5 @@
 [ {
-"ava"https://unel-app.github.io/api.unel.tv/server/profile/verified/developer_profile_avatarka.png",
+"ava":"https://unel-app.github.io/api.unel.tv/server/profile/verified/developer_profile_avatarka.png",
 "user":"LisaDev",
 "title":"Test Post",
 "message":"Test Post:",
