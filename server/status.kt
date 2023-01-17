@@ -4,8 +4,7 @@
 "title":"Test",
 "message":"Test",
 "data":"17 қаңтар 2023ж - 20:55",
-"poster":"https://cs9.pikabu.ru/post_img/big/2017/02/25/1/148797977117513249.jpg",
-"is_verified":"true"
+"poster":"https://cs9.pikabu.ru/post_img/big/2017/02/25/1/148797977117513249.jpg"
 },
 {"ava":"https://anixstatic.com/avatars/2c648016d7f40dd98f28cb3c4f333569e92bc2c1_EGZdOnoMGe.gif",
 "user":"ITs-пользователь",
