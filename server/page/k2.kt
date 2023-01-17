@@ -15,7 +15,8 @@
 "moderator":"Seele",
 "cause":"Источник қолжетімсіз!",
 "data_delete":"10/01/2023 - 11:21",
-"player":"null",
+"unavailable":"null",
 "note_li":"null",
+"block":"null",
 "sl":"k2-sl"
 } ]
