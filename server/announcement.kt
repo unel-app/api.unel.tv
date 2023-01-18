@@ -48,7 +48,7 @@
 "country":"Япония, 2023ж",
 "info1":"? эп. ~25мин",
 "info2":"Сериал, анонс",
-"info3":" Студия MAPPA, автор Хадзимэ Исаяма",
+"info3":"Студия MAPPA, автор Хадзимэ Исаяма",
 "desc":"Экшен, хоррор, фэнтези, сенен"
 },
 {"img":"https://static.anixart.tv/posters/wIfLZRp6CpFd2cxsbAVekpjA3JFEIY.jpg",
