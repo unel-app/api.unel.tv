@@ -1,0 +1,22 @@
+[ {
+"url":"https://anixstatic.com/posters/MzofB6qlD3GGnniwP65ToVg5GkDfA4.jpg",
+"title":"Test",
+"info":"",
+"jp":"Test, Тест",
+"country":"Kazakhstan, 2014y",
+"info1":"0 эп. ~116мин",
+"info2":"Шықты",
+"info3":"Студия Stigmate, автор Seele",
+"description":"Приложения, тест, бета тест, тест сервер",
+"note":"null",
+"age":"0+",
+"language":"Тіл таңдалмады",
+"hd":"1080p",
+"moderator":"null",
+"cause":"null",
+"data_delete":"null",
+"block":"null",
+"note_li":"null",
+"unavailable":"null",
+"sl":"test"
+} ]
