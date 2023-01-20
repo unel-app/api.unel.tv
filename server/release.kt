@@ -1,4 +1,11 @@
 [ {
+"url":"https://anixstatic.com/posters/MzofB6qlD3GGnniwP65ToVg5GkDfA4.jpg",
+"title":"Test",
+"grade":"0 эп • 9.9★",
+"info":"",
+"id_page":"test"
+},
+{
 "url":"http://anifon.ru/uploads/posts/2023-01/1673911049_hw2_y9mphvy.jpg",
 "title":"Ауыр атлетика перизаты КИМ БОК ЧЖУ",
 "grade":"16 эп • 8.2★",
