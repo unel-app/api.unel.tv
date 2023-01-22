@@ -1,9 +1,5 @@
 [ {
-"dub":"Dopamine Voice",
-"git":"12 эп.",
-"id":"chainsaw-man"
-},
-{"dub":"Sibnet / Anidybys",
+"dub":"Трейлер (Test)",
 "git":"1 эп.",
-"id":"chainsaw-man-id2"
+"id":"chainsaw-manx"
 } ]
