@@ -1,6 +1,6 @@
 [ {
 "episode":"1 бөлім",
-"is":"https://ok.ru/videoembed/4187764230857"
+"is":"https://vd373.mycdn.me/?expires=1674837396434&srcIp=45.90.196.159&pr=10&srcAg=CHROME&ms=45.136.22.78&type=3&sig=mCe293QmNR0&ct=4&urls=185.226.53.12&clientType=0&id=2999772252873",
 },
 {"episode":"2 бөлім",
 "is":"https://ok.ru/videoembed/4226012744393"
